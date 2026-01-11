@@ -20,6 +20,9 @@
     "moduleDetection": "force",
     "skipLibCheck": true,
     "esModuleInterop": true,
-    "moduleResolution": "nodenext"
+    "moduleResolution": "nodenext",
+
+    "rootDir": "src",
+    "outDir": "dist"
   }
 }
